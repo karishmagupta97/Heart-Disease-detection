@@ -4,7 +4,7 @@ Aspiration-Wanted to know what were the exact reasons that causes heart attck
 
 Algorithms-KNN,Random Forest,Decison Tree
 
-Other tools-matplotliv,seaborn,pandas
+Other tools-matplotlib,seaborn,pandas
 
 Steps followed
 1) checked info etc to know if any null value.
